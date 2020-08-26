@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Rafa\\": "lib/RafaelCapoani"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
